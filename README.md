@@ -5,3 +5,9 @@ Fuzzy Dollop is a complete application written in react native in the frontend, 
 ## Architecture
 
 ![](./docs/images/architecture.drawio.png)
+
+## running
+
+```
+running...
+```
